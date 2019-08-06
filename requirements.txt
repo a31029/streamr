@@ -1,0 +1,4 @@
+requests
+setuptools
+six
+websocket_client
